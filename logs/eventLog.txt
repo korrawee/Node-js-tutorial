@@ -1,0 +1,4 @@
+20220401	13:14:21	46af4a43-e1fb-41f8-afa5-971ccddf0f5c	Log event emitted
+20220401	13:14:26	b796f4d7-d6aa-4c0d-a7b7-861b32d51efa	Log event emitted
+20220401	13:14:35	cb4279b2-156a-40ee-8c27-8291e4a5a3af	Log event emitted
+20220401	13:14:57	26d82deb-b095-4e6d-a1f7-c4fd5a75afd8	Log event emitted
