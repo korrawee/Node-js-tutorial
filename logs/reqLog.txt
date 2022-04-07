@@ -2,3 +2,23 @@
 20220406	14:09:08	3477d007-2098-4657-978e-9223d4a962da	/new-page.html	GET
 20220406	14:09:08	59c539f9-6f58-4b3e-855e-070dea26b968	/img/4_2.png	GET
 20220406	14:09:43	db7c19cc-e65a-419e-ba8c-52e3d33f1621	/new-page.html	GET
+20220406	18:27:56	1d785dc3-c473-4e37-8e88-0681d1de2189	GET	undefined	/
+20220406	18:28:13	e6595da9-e286-47b6-b68b-22206a099a01	GET	undefined	/
+20220406	18:28:20	4528ac56-c46b-4f6d-98cf-83e8ecdb0cce	GET	undefined	/
+20220406	18:29:27	8cd62f05-c105-44e0-93d0-447fa806e875	GET	undefined	/css/style.css
+20220406	18:31:09	f1e25a63-7edf-4e96-a599-3f38e03bce12	GET	undefined	/css/style.css
+20220406	18:32:51	236b63b8-5977-48b1-9135-10dd9c2b851d	GET	https://www.google.com	/
+20220406	18:34:59	f3b7cc55-35a8-496c-ab7c-1b1ebe4deabc	GET	https://www.google.com	/
+20220406	18:40:17	d4a2851b-3d40-4e86-a922-26d5d863eb2d	GET	https://www.google.com	/
+20220406	18:40:27	2dc86a63-9ab4-4c2f-a35e-5209216854c9	GET	https://www.google.com	/
+20220406	19:21:40	4071ebcd-3c56-44bd-9f4b-c3819c0d9132	GET	undefined	/
+20220406	19:22:51	626e0dcd-f880-4b37-aae0-1156c097ae07	GET	undefined	/
+20220406	19:26:17	7ad3229d-03d2-4bdd-8572-1ca3b737a673	GET	undefined	/
+20220406	19:26:28	a39440ca-12d5-42e1-9145-7244d0ed192c	GET	undefined	/
+20220406	19:28:37	ce9d6e9c-4e04-48bd-a38a-5c461ca8d065	GET	undefined	/d/
+20220406	19:28:41	989fd3a1-ea72-48bd-b94a-78f0f27d9c6c	GET	undefined	/day
+20220406	19:28:48	a48715b2-7fe0-442a-b903-57bfdc17100e	GET	undefined	/dyuyu
+20220406	19:31:16	06e02c52-2828-4039-80db-cb3ea42ac789	GET	undefined	/day
+20220406	19:31:24	e71ce0c4-1520-4c01-911d-f3cf26153f8e	GET	undefined	/day.json
+20220407	20:48:04	8f0002bf-bf9e-4f06-b00a-b75f316b5d96	GET	undefined	/
+20220407	20:48:09	3aea0ea2-efe5-4476-bd21-6d85e0334388	GET	undefined	/kimugi
